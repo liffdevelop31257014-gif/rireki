@@ -5,7 +5,7 @@
 /* TODO: LINE Developersでこのフォーム専用のLIFFアプリを発行し、
    発行されたLIFF IDに書き換えてください。
    （前回の婚活QAアプリのIDはそのアプリ専用のため、ここでは使えません） */
-const LIFF_ID = "YOUR_LIFF_ID_HERE";
+const LIFF_ID = "2010312230-PXgMb4I3";
 
 const STORAGE_KEY = "life_story_draft_v1";
 
